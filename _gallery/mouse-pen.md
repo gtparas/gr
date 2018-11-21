@@ -6,5 +6,5 @@ caption: 'Τα mouse pens είναι ποντίκια που τα κρατάς �
 categories:
   - input-device
 tags:
-  - Mouse Pen
+  - Mouse-pen
 ---
