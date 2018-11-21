@@ -9,5 +9,5 @@ categories:
   - input-device
 tags:
   - Laptop
-  - Pointing Stick
+  - Pointing-stick
 ---
